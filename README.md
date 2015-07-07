@@ -192,7 +192,7 @@ To access to the compiled file you simply have to reference to its CSS equivalen
 
 For more information, go to the documentation page about [LESS](http://www.playframework.com/documentation/2.3.x/AssetsLess).
 
-### Assets: RequireJS, Digest, Etag, Gzip, Fingerprint
+### Assets: RequireJS, Digest, Etag, Gzip, Fingerprint 
 
 To configure all of these features, for each service (`web` and `admin`) we have the following:
 
